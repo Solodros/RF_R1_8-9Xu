@@ -3439,7 +3439,7 @@
     (pin "3" (uuid dc863862-a9ea-4700-92ae-821624b48faf))
   )
 
-  (symbol (lib_id "cipulot_parts:EC_SW") (at 46.355 165.1 0) (unit 1)
+  (symbol (lib_id "cipulot_parts:EC_SW") (at 46.355 165.1 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6b7f262e-c133-44cf-9952-511e8b02e742)
     (property "Reference" "SW70" (id 0) (at 46.355 159.2412 0))
@@ -3951,7 +3951,7 @@
     (pin "1" (uuid f46d59bb-0c32-4d53-af5e-7d39bf88372b))
   )
 
-  (symbol (lib_id "cipulot_parts:EC_SW") (at 46.355 149.225 0) (unit 1)
+  (symbol (lib_id "cipulot_parts:EC_SW") (at 46.355 149.225 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d8bcb535-6126-4790-b1f7-9d3d5f36287b)
     (property "Reference" "SW55" (id 0) (at 46.355 143.3662 0))
