@@ -1619,7 +1619,7 @@
     (property "Datasheet" "~" (id 3) (at 202.565 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C302060" (id 4) (at 202.565 90.17 0)
+    (property "LCSC" "C1603" (id 4) (at 202.565 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f0412283-6407-4174-b91b-30d83aae4df4))
