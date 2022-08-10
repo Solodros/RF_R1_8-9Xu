@@ -4,8 +4,6 @@ Open source universal PCB for the Realforce R1 family of keyboards.
 
 ## Introduction
 
-Open source universal PCB for the Realforce R1 TKL family of keyboards.
-
 This project is a continuation of my development of open source EC boards.
 
 The supported layouts are the one of the Realforce R1 family of keyboards, it being ANSI, ISO or JIS.
@@ -57,9 +55,9 @@ I thought about adding extra connectors so that if anyone wants to use this PCB 
 
 Since the R1 PCB is used in some already existing custom PC (polycarbonate) cases, it was important to have a way to include a RGB strip support.
 
-The strip can be directly sticked to the PCB and it can be then wired to the PCB by soldering the pins to the THT pins or SMD pads.
+The strip can be directly sticked to the PCB and then wired to the PCB by soldering the pins to the THT pins or SMD pads.
 
-Lighting can be controlled by board itself and customization is achieved by using Vial/VIA.
+Lighting can be controlled by the board itself and customization is achieved by using Vial/VIA.
 
 ## "Why no plates?" I hear you say
 
@@ -69,7 +67,7 @@ It is what it is.
 
 For real though, the PCB is a replacement for the original Realforce R1 PCB so using the original plates is the preferred option. Furthermore, the multilayout support makes it tedious to make a plate design for each and every layout.
 
-nevertheless, if there's a particular plate config you want to use, you can always open an issue on the repository or even better make a PR from your own fork.
+Nevertheless, if there's a particular plate config you want to use, you can always open an issue on the repository or even better make a PR from your own fork.
 
 ## Copyright notice
 
