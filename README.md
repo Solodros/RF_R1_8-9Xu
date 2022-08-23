@@ -33,7 +33,9 @@ The supported layouts are the one of the Realforce R1 family of keyboards, it be
 
 ### Prototype
 
-TBD
+![PCB Front Proto](/Assets/PCB_proto_front.png)
+
+![PCB Back Proto](/Assets/PCB_proto_back.png)
 
 ## Revisions and relative features
 
