@@ -73,4 +73,4 @@ Nevertheless, if there's a particular plate config you want to use, you can alwa
 
 ## Copyright notice
 
-This project is released under the MIT License. For the license, please refer to the LICENCE.md file.
+This project is released under the MIT License. For the license, please refer to the LICENSE.md file.
