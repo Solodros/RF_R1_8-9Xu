@@ -1,4 +1,4 @@
-21408410614743369
+21454989942055207
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86457,6 +86457,13 @@ SMD SMT crystal
 4
 4
 cipulot_parts
+DF14A-15P-1.25H
+Hirose DF series connector, DF14A-15P-1.25H (https://www.hirose.com/en/product/document?clcode=CL0538-0114-3-35&productname=DF14A-15P-1.25H(35)&series=DF14&documenttype=2DDrawing&lang=en&documentid=0001397247)
+connector JST SH top entry
+0
+17
+16
+cipulot_parts
 D_0805
 
 
@@ -87142,6 +87149,13 @@ Low-Profile-Choc-MX
 0
 5
 4
+cipulot_parts
+M2.5_RF_Shield
+Mounting Hole 2.5mm
+mounting hole 2.5mm
+0
+1
+1
 cipulot_parts
 MAX5423
 
@@ -89390,6 +89404,13 @@ rotary encoder
 5
 5
 cipulot_parts
+S13B-ZR-SM4A-TF
+JST ZH series connector, S13B-ZR-SM4A-TF (https://www.jst-mfg.com/product/pdf/eng/eZH.pdf)
+connector JST ZH
+0
+15
+14
+cipulot_parts
 SK6812-MINI-E
 
 
@@ -89838,6 +89859,13 @@ USB-Mini-B_2leg
 7
 6
 cipulot_parts
+USB-SMT-04F-S1-B1-R9A
+https://datasheet.lcsc.com/lcsc/2008042135_JINJIA-USB-SMT-04F-S1-B1-R9A_C718022.pdf
+USB-A
+0
+6
+5
+cipulot_parts
 USB_C_GCT_USB4085
 
 
@@ -90048,6 +90076,13 @@ plate_cut_6U_space_stab_ecs_pad
 0
 0
 cipulot_parts
+plate_cut_7U_space_stab_ecs_pad
+ StepUp generated footprint
+
+0
+0
+0
+cipulot_parts
 plate_cut_ecs_pad
  StepUp generated footprint
 
@@ -90126,6 +90161,20 @@ cherry MX 6028 rearmount rear mount led rgb backlight
 4
 marbastlib-mx
 LED_MX_6028R-FLIPPED
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+LED_MX_6028R-FLIPPED_SilkBot
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+LED_MX_6028R_SilkBot
 Add-on for regular MX-footprints with 6028 reverse mount LED
 cherry MX 6028 rearmount rear mount led rgb backlight
 0
@@ -90348,3 +90397,150 @@ Footprint for Cherry MX style switches with Kailh hotswap socket
 0
 6
 2
+marbastlib-various
+CON_TC2030_outlined
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
+tag connect programming header pogo pins
+0
+6
+6
+marbastlib-various
+LED_6028R
+rear-mount SMD 6028 RGB LED
+LED RGB 6028 rear mount reverse
+0
+4
+4
+marbastlib-various
+LED_WS2812_2020
+2020 SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+marbastlib-various
+ProMicro
+Footprint for Arduino Pro Micro and compatible boards
+
+0
+24
+24
+marbastlib-various
+ProMicroReversible
+Reversible footprint for Arduino Pro Micro and compatible boards
+
+0
+48
+24
+marbastlib-various
+SOT-23-6-routable
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+marbastlib-various
+SW_ESP3020
+ECE ESP3020 SMD slide switch
+slide switch smd ece
+0
+3
+3
+marbastlib-various
+SW_SKHLLCA010
+alps SKHLLCA010 DIP pushbutton
+alps tht dip pushbutton SPST
+0
+4
+3
+marbastlib-various
+SW_SPST_SKQG_WithStem
+ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html
+SPST Button Switch
+0
+4
+2
+marbastlib-various
+SW_SSSS213100
+alps SKHLLCA010 DIP 1-pole, 2-position switch
+alps dip tht SPDT
+0
+3
+3
+marbastlib-various
+SW_SSSS223900
+alps SKHLLCA010 DIP 2-pole, 3-position switch
+alps tht dip DP3T
+0
+8
+8
+marbastlib-various
+SW_kailh_big_1u
+Footprint for Kailh "Big Switch Series" style switches
+
+0
+2
+2
+marbastlib-various
+SplitkbTentingPuck
+https://splitkb.com/products/tenting-puck
+split kb tenting puck mechanical mounting
+0
+5
+1
+marbastlib-various
+USB_C_Receptacle_HRO_TYPE-C-31-M-14
+USB Type-C receptacle for USB 2.0 and PD
+usb usb-c 2.0 pd
+0
+20
+17
+marbastlib-various
+mousebites_1mm
+
+
+0
+0
+0
+marbastlib-various
+mousebites_2.5mm
+
+
+0
+0
+0
+marbastlib-various
+mousebites_2mm
+
+
+0
+0
+0
+marbastlib-various
+nRF52840_holyiot_18010
+Module containing a nRF52840 and most passives and antenna
+holyiot 18010 bluetooth low energy 
+0
+55
+55
+marbastlib-various
+nRF52840_holyiot_18010_HS_all
+Module containing a nRF52840 and most passives and antenna, with a cutout for hand soldering of the bottom IO
+holyiot 18010 bluetooth low energy 
+0
+55
+55
+marbastlib-various
+nRF52840_holyiot_18010_HS_simple
+Module containing a nRF52840 and most passives and antenna, with only hand solderable pads
+holyiot 18010 bluetooth low energy 
+0
+37
+37
+marbastlib-various
+nRF52840_moko_mk08
+
+
+0
+60
+58
