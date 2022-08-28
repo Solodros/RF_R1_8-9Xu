@@ -22,7 +22,7 @@
 #include "print.h"
 
 #ifndef LOW_THRESHOLD
-#    define LOW_THRESHOLD 500
+#    define LOW_THRESHOLD 550
 #endif
 
 #ifndef HIGH_THRESHOLD
