@@ -61,6 +61,16 @@ The strip can be directly sticked to the PCB and then wired to the PCB by solder
 
 Lighting can be controlled by the board itself and customization is achieved by using Vial/VIA.
 
+### Rev 1.1
+
+This revision implements the following changes:
+  * added support for THT LED for Caps Lock and Scroll Lock
+  * moved filtering components for plate shield to top side
+  * added filtering components for USB-C shield
+  * improved ground stitching
+
+![PCB Front Render Rev 1.1](/Assets/PCB_render_front_1_1.png)
+
 ## "Why no plates?" I hear you say
 
 It is what it is.
