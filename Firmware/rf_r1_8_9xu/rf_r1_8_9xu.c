@@ -15,3 +15,17 @@
  */
 
 #include "rf_r1_8_9xu.h"
+
+void matrix_init_kb(void) {
+    setPinOutput(A14); //Scroll Lock LED
+    setPinOutput(B3); //Caps Lock LED
+    matrix_init_user();
+}
+
+bool led_update_kb(led_t led_state) {
+    if (led_update_user(led_state)) {
+        writePin(A14, led_state.scroll_lock);
+        writePin(B3, led_state.caps_lock);
+    }
+    return true;
+}

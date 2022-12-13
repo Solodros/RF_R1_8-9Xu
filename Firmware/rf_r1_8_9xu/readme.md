@@ -1,6 +1,6 @@
 # RF_R1_8-9xu
 
-60% Electrostatic Capacitive PCB, GH60 mounting compatible, with multi-layout support
+Open source universal PCB for the Realforce R1 family of keyboards.
 
 * Keyboard Maintainer: [cipulot](https://github.com/cipulot)
 * Hardware Supported: RF_R1_8-9Xu

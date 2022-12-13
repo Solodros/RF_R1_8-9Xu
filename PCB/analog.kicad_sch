@@ -6,8 +6,8 @@
 
   (title_block
     (title "RF_R1_8-9Xu PCB - Analog Circuit")
-    (date "2022-08-10")
-    (rev "1")
+    (date "2022-12-13")
+    (rev "1.1")
     (company "Cipulot PCB Design ")
     (comment 1 "MIT License")
     (comment 2 "Cipulot")

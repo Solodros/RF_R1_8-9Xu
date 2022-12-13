@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.5,
-          "height": 8.0,
-          "width": 8.0
+          "drill": 0.0,
+          "height": 1.8,
+          "width": 1.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -461,6 +461,10 @@
     [
       "004107b0-ccf4-476d-9504-97bf1a9256af",
       "mounting points"
+    ],
+    [
+      "eb02aace-817b-4a3c-af71-6f158a79d714",
+      "Indicators"
     ]
   ],
   "text_variables": {}
