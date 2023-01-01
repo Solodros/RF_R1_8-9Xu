@@ -3726,7 +3726,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9f19f221-8b83-4ebf-9151-530795474c7a)
     (property "Reference" "SW51" (id 0) (at 313.055 126.8562 0))
-    (property "Value" "ANSI_Enter" (id 1) (at 313.055 129.3931 0))
+    (property "Value" "ISO_Enter" (id 1) (at 313.055 129.3931 0))
     (property "Footprint" "cipulot_parts:ecs_pad_no_ring" (id 2) (at 313.055 132.715 0)
       (effects (font (size 1.27 1.27)) hide)
     )

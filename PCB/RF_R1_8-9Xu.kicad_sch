@@ -5568,7 +5568,7 @@
       (reference "SW50") (unit 1) (value "ANSI_\\") (footprint "cipulot_parts:ecs_pad_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/9f19f221-8b83-4ebf-9151-530795474c7a"
-      (reference "SW51") (unit 1) (value "ANSI_Enter") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW51") (unit 1) (value "ISO_Enter") (footprint "cipulot_parts:ecs_pad_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/77502533-fb8a-46f9-882e-b2404e08f3be"
       (reference "SW52") (unit 1) (value "EC_SW") (footprint "cipulot_parts:ecs_pad_no_ring")
