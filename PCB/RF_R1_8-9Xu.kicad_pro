@@ -402,7 +402,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../Assets/EC60_PCB.step",
+      "step": "../Assets/RF_R1_8-9Xu_PCB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
