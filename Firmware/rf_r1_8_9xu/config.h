@@ -16,9 +16,6 @@
 
 #pragma once
 
-#include "config_common.h"
-
-/* key matrix size */
 #define MATRIX_ROWS 6
 #define MATRIX_COLS 16
 
@@ -36,28 +33,13 @@
 #define DISCHARGE_PIN A4
 #define ANALOG_PORT A3
 
-/* RGB Strip */
-#define RGB_DI_PIN A15
-#define RGBLED_NUM 22
-#define RGBLIGHT_EFFECT_BREATHING
-#define RGBLIGHT_EFFECT_RAINBOW_MOOD
-#define RGBLIGHT_EFFECT_RAINBOW_SWIRL
-#define RGBLIGHT_EFFECT_SNAKE
-#define RGBLIGHT_EFFECT_KNIGHT
-#define RGBLIGHT_EFFECT_CHRISTMAS
-#define RGBLIGHT_EFFECT_STATIC_GRADIENT
-#define RGBLIGHT_EFFECT_RGB_TEST
-#define RGBLIGHT_EFFECT_ALTERNATING
-#define RGBLIGHT_EFFECT_TWINKLE
-
-/* COL2ROW, ROW2COL */
-#define DIODE_DIRECTION COL2ROW
-
-/* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
-// #define DEBOUNCE 5
-
 /* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
 #define LOCKING_SUPPORT_ENABLE
 
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
+
+#define DEFAULT_ACTUATION_LEVEL 700
+#define DEFAULT_RELEASE_LEVEL 650
+
+#define DISCHARGE_TIME 10
